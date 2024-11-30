@@ -1,5 +1,4 @@
 name: Build bjreplay/sl-app Docker Images
-# Save now that repo is ready to build.
 
 on:
   schedule:
